@@ -3,7 +3,7 @@
 
 I am a Systems and Telecommunications Engineer, besides a passionate <b> mobile software developer </b> from Colombia. 
 
-🔭 I like intellectual challenges and algorithms. By this, I have been polishing up creative thinking, data structures understanding and typing speed through competitive programming exercises.
+🔭 I like intellectual challenges and algorithms. In this regard, I have been polishing up creative thinking, data structures understanding and typing speed through competitive programming exercises.
 
 🌱 I'm diving into Flutter. Furthermore, I'm getting to know C++ and C# to work with 🧠 Brain-Computer Interfaces.
 
