@@ -1,7 +1,7 @@
 ## Hi! I'm Jorge Andrés Díaz 👋
 
 
-I am a Systems and Telecommunications Engineer, besides a passionate mobile software developer from Colombia. 
+I am a Systems and Telecommunications Engineer, besides a passionate <b> mobile software developer </b> from Colombia. 
 
 🔭 I like intellectual challenges and algorithms. By this, I have been polishing up creative thinking, data structures understanding and typing speed through competitive programming exercises.
 
