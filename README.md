@@ -7,7 +7,7 @@ I am a Systems and Telecommunications Engineer, besides a passionate mobile soft
 
 🌱 I'm diving into Flutter. Furthermore, I'm getting to know C++ and C# to work on 🧠 Brain-Computer Interfaces.
 
-❤️  And I am also a ♟️ chess & 🤪 psychology lover :D
+❤️  And I am also a ♟️ chess, 🤪 psychology and 📝 writing lover :D
 
 📫 You can reach me via email: jorgeandresdn1@gmail.com
 
