@@ -5,7 +5,7 @@ I am a Systems and Telecommunications Engineer, besides a passionate <b> mobile 
 
 🔭 I like intellectual challenges and algorithms. In this regard, I have been polishing up creative thinking, data structures understanding and typing speed through competitive programming exercises.
 
-🌱 I'm diving into Flutter
+🌱 I'm proeficient in Android development, furthermore I'm diving into Flutter
 
 ❤️  And I am also a ♟️ chess, 🤪 psychology and 📝 writing lover :D
 
