@@ -20,5 +20,5 @@ I am a Systems and Telecommunications Engineer, besides a passionate <b> mobile 
 <a href="https://medium.com/@jorgeandresdn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jorgeandresdn1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
+<h3 align="left">Most used languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgediazz&show_icons=true&locale=en&layout=compact&hide_title=true" alt="jorgediazz" /></p> 
